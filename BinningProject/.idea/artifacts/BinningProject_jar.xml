@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BinningProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BinningProject_jar</output-path>
+    <root id="archive" name="BinningProject.jar">
+      <element id="module-output" name="BinningProject" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/Assignment5_Part2/hadoop-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/Assignment5_Part2/hadoop-mapreduce-client-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/Assignment5_Part2/hadoop-mapreduce-client-core-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/TestProjectReadData/gson-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
