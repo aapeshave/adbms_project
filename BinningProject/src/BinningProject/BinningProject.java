@@ -7,6 +7,8 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
+import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 import java.io.IOException;
 import java.util.logging.Level;
@@ -17,14 +19,20 @@ public class BinningProject {
     public static void main(String args[]) {
         Configuration configuration = new Configuration();
         try {
-            Job job = Job.getInstance(configuration, "Project Test Data");
+            Job job = Job.getInstance(configuration, "Price wise binning job");
             job.setJarByClass(BinningProject.class);
 
-            job.setMapperClass(TestMapper.class);
-            job.setMapOutputKeyClass(Text.class);
-            job.setMapOutputValueClass(NullWritable.class);
+            job.setMapperClass(RatingBinningMapper.class);
 
-            job.setReducerClass(TestReducer.class);
+            job.setNumReduceTasks(0);
+
+            MultipleOutputs.addNamedOutput(job, "bins",
+                    TextOutputFormat.class,
+                    Text.class,
+                    NullWritable.class);
+
+            MultipleOutputs.setCountersEnabled(job, true);
+
             job.setOutputKeyClass(Text.class);
             job.setOutputValueClass(NullWritable.class);
 
