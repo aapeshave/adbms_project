@@ -1,8 +1,10 @@
 package ReviewSummarization;
 
 import ReviewSummarization.pojo.ReviewEntity;
+import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
+import sun.nio.ch.FileKey;
 
 import java.io.IOException;
 
@@ -10,7 +12,7 @@ import java.io.IOException;
 /**
  * Created by ajinkya on 4/22/17.
  */
-public class ReducerRatings extends Reducer<Text, ReviewEntity, Text, ReviewEntity> {
+public class ReducerRatings extends Reducer<Text, ReviewEntity, Text, NullWritable> {
     ReviewEntity result = new ReviewEntity();
     @Override
     protected void reduce(Text key, Iterable<ReviewEntity> values, Context context) throws IOException, InterruptedException {
@@ -33,6 +35,12 @@ public class ReducerRatings extends Reducer<Text, ReviewEntity, Text, ReviewEnti
         result.setMaximumRating(maximum);
         result.setMinimumRating(minimum);
         result.setReviewCount(((int) count));
-        context.write(key, result);
+
+        StringBuilder builder = new StringBuilder();
+        builder.append(key).append(",");
+        builder.append(Float.toString(sum / count)).append(",");
+        builder.append(Float.toString(maximum)).append(",");
+        builder.append(Float.toString(minimum));
+        context.write(new Text(builder.toString()), NullWritable.get());
     }
 }

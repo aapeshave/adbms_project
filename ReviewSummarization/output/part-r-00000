@@ -1,400 +1,400 @@
-B000HBPMVY	ReviewEntity{reviewCount=51, averageRating=3.5294118, minimumRating=1.0, maximumRating=5.0}
-B000HBZNE0	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HCD4RW	ReviewEntity{reviewCount=5, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HCHR84	ReviewEntity{reviewCount=10, averageRating=3.8, minimumRating=1.0, maximumRating=5.0}
-B000HCNE0E	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HCQKTG	ReviewEntity{reviewCount=60, averageRating=4.35, minimumRating=1.0, maximumRating=5.0}
-B000HCSDKA	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HCT110	ReviewEntity{reviewCount=23, averageRating=2.8695652, minimumRating=1.0, maximumRating=5.0}
-B000HD0KNM	ReviewEntity{reviewCount=5, averageRating=2.4, minimumRating=1.0, maximumRating=5.0}
-B000HD4MZO	ReviewEntity{reviewCount=12, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000HD4MZY	ReviewEntity{reviewCount=5, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000HD4N3U	ReviewEntity{reviewCount=29, averageRating=3.8965516, minimumRating=1.0, maximumRating=5.0}
-B000HD6HRA	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HD6HRU	ReviewEntity{reviewCount=54, averageRating=4.0740743, minimumRating=1.0, maximumRating=5.0}
-B000HD79J0	ReviewEntity{reviewCount=155, averageRating=3.5935483, minimumRating=1.0, maximumRating=5.0}
-B000HD8BVU	ReviewEntity{reviewCount=7, averageRating=3.7142856, minimumRating=1.0, maximumRating=5.0}
-B000HD8BW4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HD8BYC	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HD9YFM	ReviewEntity{reviewCount=7, averageRating=3.4285715, minimumRating=1.0, maximumRating=5.0}
-B000HD9YH0	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HD9YI4	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HDB4O6	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HDB4QO	ReviewEntity{reviewCount=10, averageRating=3.7, minimumRating=1.0, maximumRating=5.0}
-B000HDC7W4	ReviewEntity{reviewCount=9, averageRating=3.2222223, minimumRating=1.0, maximumRating=4.0}
-B000HDC7WO	ReviewEntity{reviewCount=3, averageRating=2.3333333, minimumRating=2.0, maximumRating=3.0}
-B000HDC7YC	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HDCKGM	ReviewEntity{reviewCount=36, averageRating=3.6944444, minimumRating=1.0, maximumRating=5.0}
-B000HDDCDW	ReviewEntity{reviewCount=30, averageRating=3.5, minimumRating=1.0, maximumRating=5.0}
-B000HDE3GW	ReviewEntity{reviewCount=2, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HDE3OO	ReviewEntity{reviewCount=4, averageRating=3.25, minimumRating=1.0, maximumRating=5.0}
-B000HDE3Q2	ReviewEntity{reviewCount=4, averageRating=1.25, minimumRating=1.0, maximumRating=2.0}
-B000HDGAEU	ReviewEntity{reviewCount=40, averageRating=3.275, minimumRating=1.0, maximumRating=5.0}
-B000HDHB4I	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HDIMUK	ReviewEntity{reviewCount=5, averageRating=4.2, minimumRating=2.0, maximumRating=5.0}
-B000HDJP88	ReviewEntity{reviewCount=2, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HDK7JE	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=3.0, maximumRating=4.0}
-B000HDLUL8	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HDMHRO	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HDTXDA	ReviewEntity{reviewCount=65, averageRating=4.1076922, minimumRating=1.0, maximumRating=5.0}
-B000HDZA28	ReviewEntity{reviewCount=94, averageRating=3.43617, minimumRating=1.0, maximumRating=5.0}
-B000HE5298	ReviewEntity{reviewCount=8, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000HE6PMG	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HE8Q00	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HE8RI6	ReviewEntity{reviewCount=32, averageRating=3.09375, minimumRating=1.0, maximumRating=5.0}
-B000HE927Q	ReviewEntity{reviewCount=7, averageRating=2.857143, minimumRating=1.0, maximumRating=5.0}
-B000HEAKHW	ReviewEntity{reviewCount=4, averageRating=3.5, minimumRating=1.0, maximumRating=5.0}
-B000HEB6TI	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HEBNUK	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HEC44O	ReviewEntity{reviewCount=6, averageRating=4.0, minimumRating=2.0, maximumRating=5.0}
-B000HEE2QW	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HEGGHK	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HFS9A6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HFUVNE	ReviewEntity{reviewCount=8, averageRating=3.875, minimumRating=1.0, maximumRating=5.0}
-B000HFWXN0	ReviewEntity{reviewCount=4, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HG9MUG	ReviewEntity{reviewCount=11, averageRating=3.090909, minimumRating=1.0, maximumRating=5.0}
-B000HGBNQM	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HGBNRQ	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=2.0, maximumRating=3.0}
-B000HGDQYY	ReviewEntity{reviewCount=4, averageRating=2.75, minimumRating=1.0, maximumRating=5.0}
-B000HGDR1Q	ReviewEntity{reviewCount=17, averageRating=3.1176472, minimumRating=1.0, maximumRating=5.0}
-B000HGHAUU	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HGHBZ4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HGHLS6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HGJC42	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HGJD6E	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HGPV5Q	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HGR18G	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=1.0, maximumRating=3.0}
-B000HHB1AO	ReviewEntity{reviewCount=10, averageRating=3.8, minimumRating=1.0, maximumRating=5.0}
-B000HHD5TE	ReviewEntity{reviewCount=118, averageRating=4.355932, minimumRating=1.0, maximumRating=5.0}
-B000HHERI2	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HHERJG	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HHERKU	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HHERVY	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HHERW8	ReviewEntity{reviewCount=5, averageRating=1.8, minimumRating=1.0, maximumRating=4.0}
-B000HHGSQ6	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HHGSRK	ReviewEntity{reviewCount=4, averageRating=1.75, minimumRating=1.0, maximumRating=3.0}
-B000HHGSSO	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=1.0, maximumRating=5.0}
-B000HHGT4M	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HHHM3O	ReviewEntity{reviewCount=6, averageRating=2.3333333, minimumRating=1.0, maximumRating=5.0}
-B000HHIUOE	ReviewEntity{reviewCount=4, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000HHIUQC	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HHIUQM	ReviewEntity{reviewCount=67, averageRating=4.1641793, minimumRating=1.0, maximumRating=5.0}
-B000HHJU1G	ReviewEntity{reviewCount=58, averageRating=4.172414, minimumRating=1.0, maximumRating=5.0}
-B000HHKXOY	ReviewEntity{reviewCount=2, averageRating=1.5, minimumRating=1.0, maximumRating=2.0}
-B000HHKXU8	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HHKXZS	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HHN8R8	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HHPA2O	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HHTF7U	ReviewEntity{reviewCount=7, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000HHTF8Y	ReviewEntity{reviewCount=10, averageRating=3.1, minimumRating=1.0, maximumRating=5.0}
-B000HHTF9S	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HHU4V6	ReviewEntity{reviewCount=11, averageRating=3.909091, minimumRating=1.0, maximumRating=5.0}
-B000HI6RCA	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HJC56G	ReviewEntity{reviewCount=29, averageRating=3.5172415, minimumRating=1.0, maximumRating=5.0}
-B000HJEYQ0	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HJI3SK	ReviewEntity{reviewCount=21, averageRating=3.4285715, minimumRating=1.0, maximumRating=5.0}
-B000HJWEIU	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HKEOBO	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HKGGWY	ReviewEntity{reviewCount=27, averageRating=3.8888888, minimumRating=1.0, maximumRating=5.0}
-B000HKIMOY	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HKIX34	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HKN7LW	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HKV9DU	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HL13CG	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HL6VKK	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HL874S	ReviewEntity{reviewCount=35, averageRating=3.0857143, minimumRating=1.0, maximumRating=5.0}
-B000HLD82E	ReviewEntity{reviewCount=9, averageRating=3.6666667, minimumRating=2.0, maximumRating=5.0}
-B000HLOXY6	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HLWPFU	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=2.0, maximumRating=3.0}
-B000HLYPZI	ReviewEntity{reviewCount=41, averageRating=3.7804878, minimumRating=1.0, maximumRating=5.0}
-B000HLYQNO	ReviewEntity{reviewCount=51, averageRating=3.490196, minimumRating=1.0, maximumRating=5.0}
-B000HM0OUM	ReviewEntity{reviewCount=3, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HMZYSO	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HNGU6I	ReviewEntity{reviewCount=4, averageRating=4.25, minimumRating=2.0, maximumRating=5.0}
-B000HNHE7C	ReviewEntity{reviewCount=30, averageRating=4.0333333, minimumRating=1.0, maximumRating=5.0}
-B000HNHE7W	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HNJB1E	ReviewEntity{reviewCount=14, averageRating=2.2857144, minimumRating=1.0, maximumRating=5.0}
-B000HNL7K2	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=2.0, maximumRating=5.0}
-B000HNLW2K	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HPX5O6	ReviewEntity{reviewCount=8, averageRating=1.5, minimumRating=1.0, maximumRating=5.0}
-B000HQPK6Q	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HRODGI	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HROH96	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRQH08	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRQKIM	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRQL1S	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HRQMNA	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HRQOW4	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HRREBY	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRSMMO	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=3.0, maximumRating=4.0}
-B000HRSN0U	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HRSN6Y	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=1.0, maximumRating=3.0}
-B000HRUKB0	ReviewEntity{reviewCount=3, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HRUQKU	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HRUT1Q	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HRUT52	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HRUUV0	ReviewEntity{reviewCount=5, averageRating=3.8, minimumRating=2.0, maximumRating=5.0}
-B000HRV27Q	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRV7TO	ReviewEntity{reviewCount=3, averageRating=1.3333334, minimumRating=1.0, maximumRating=2.0}
-B000HRV82U	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HRVA78	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HRVT8I	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HRVTGU	ReviewEntity{reviewCount=5, averageRating=2.0, minimumRating=1.0, maximumRating=4.0}
-B000HRX9V8	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=2.0, maximumRating=4.0}
-B000HRXAOY	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000HRYOKI	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HRYS4A	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HS1EVE	ReviewEntity{reviewCount=10, averageRating=3.6, minimumRating=1.0, maximumRating=5.0}
-B000HS30VQ	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HS35GG	ReviewEntity{reviewCount=33, averageRating=4.6060605, minimumRating=1.0, maximumRating=5.0}
-B000HS35GQ	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HSEN9E	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HSGO6E	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HT595U	ReviewEntity{reviewCount=4, averageRating=3.75, minimumRating=2.0, maximumRating=5.0}
-B000HT597I	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=1.0, maximumRating=3.0}
-B000HT5982	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HT599G	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HT59B4	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HT59BE	ReviewEntity{reviewCount=3, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HT59CI	ReviewEntity{reviewCount=6, averageRating=2.1666667, minimumRating=1.0, maximumRating=5.0}
-B000HT79F8	ReviewEntity{reviewCount=14, averageRating=2.142857, minimumRating=1.0, maximumRating=5.0}
-B000HT79LC	ReviewEntity{reviewCount=5, averageRating=4.2, minimumRating=3.0, maximumRating=5.0}
-B000HT79T4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HT79TO	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=1.0, maximumRating=3.0}
-B000HT79V2	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=2.0, maximumRating=3.0}
-B000HT79VC	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HT79VM	ReviewEntity{reviewCount=15, averageRating=3.6, minimumRating=1.0, maximumRating=5.0}
-B000HT98PW	ReviewEntity{reviewCount=2, averageRating=1.5, minimumRating=1.0, maximumRating=2.0}
-B000HT98V6	ReviewEntity{reviewCount=4, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HT9LTA	ReviewEntity{reviewCount=7, averageRating=3.7142856, minimumRating=1.0, maximumRating=5.0}
-B000HTAD0Q	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HTBC2E	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HTBC42	ReviewEntity{reviewCount=21, averageRating=3.2380953, minimumRating=1.0, maximumRating=5.0}
-B000HTBC60	ReviewEntity{reviewCount=3, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HTBCC4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HTBCD8	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HTBCE2	ReviewEntity{reviewCount=6, averageRating=2.3333333, minimumRating=1.0, maximumRating=5.0}
-B000HTQ210	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HU3HJE	ReviewEntity{reviewCount=4, averageRating=3.5, minimumRating=2.0, maximumRating=5.0}
-B000HUVQGK	ReviewEntity{reviewCount=8, averageRating=4.375, minimumRating=1.0, maximumRating=5.0}
-B000HVVFP6	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HW62B2	ReviewEntity{reviewCount=3, averageRating=4.3333335, minimumRating=3.0, maximumRating=5.0}
-B000HW6LK4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HWXGP2	ReviewEntity{reviewCount=3, averageRating=2.3333333, minimumRating=2.0, maximumRating=3.0}
-B000HWZYD4	ReviewEntity{reviewCount=3, averageRating=4.6666665, minimumRating=4.0, maximumRating=5.0}
-B000HXD4X0	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HXVI2O	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=2.0, maximumRating=4.0}
-B000HXXPLQ	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HYTMO4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HZ9SGU	ReviewEntity{reviewCount=2, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000HZA012	ReviewEntity{reviewCount=6, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HZA02Q	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HZA062	ReviewEntity{reviewCount=4, averageRating=3.75, minimumRating=2.0, maximumRating=5.0}
-B000HZA1PW	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HZA1V6	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000HZBP5W	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HZBP6Q	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HZBP7U	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HZBP8O	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HZBP8Y	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HZBQEW	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000HZBQG0	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HZBQYM	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HZDDK2	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000HZFBAW	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HZFBC0	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000HZFCK6	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000HZFD32	ReviewEntity{reviewCount=4, averageRating=3.5, minimumRating=1.0, maximumRating=5.0}
-B000HZGZPW	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000HZS2YO	ReviewEntity{reviewCount=5, averageRating=4.2, minimumRating=1.0, maximumRating=5.0}
-B000HZV8SQ	ReviewEntity{reviewCount=11, averageRating=3.909091, minimumRating=1.0, maximumRating=5.0}
-B000HZWVN2	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000HZY7AW	ReviewEntity{reviewCount=18, averageRating=4.388889, minimumRating=2.0, maximumRating=5.0}
-B000HZZIGO	ReviewEntity{reviewCount=110, averageRating=4.0454545, minimumRating=1.0, maximumRating=5.0}
-B000I00ZES	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I04P5I	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000I09K3U	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I0DFMM	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I0DFV8	ReviewEntity{reviewCount=18, averageRating=4.2222223, minimumRating=1.0, maximumRating=5.0}
-B000I0QUF6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0QW36	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0QY3O	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I0QYBQ	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0R1N6	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0R3FM	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0R3XO	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0R5YQ	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0R8F2	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0R8FC	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0S4TG	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I0SFEK	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0TERM	ReviewEntity{reviewCount=2, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I0U0HU	ReviewEntity{reviewCount=8, averageRating=4.125, minimumRating=1.0, maximumRating=5.0}
-B000I0U0I4	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0U0IO	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000I0U0J8	ReviewEntity{reviewCount=4, averageRating=4.75, minimumRating=4.0, maximumRating=5.0}
-B000I0VNBM	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0VND0	ReviewEntity{reviewCount=4, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I0VOGG	ReviewEntity{reviewCount=16, averageRating=3.6875, minimumRating=1.0, maximumRating=5.0}
-B000I0XOAK	ReviewEntity{reviewCount=5, averageRating=3.2, minimumRating=1.0, maximumRating=5.0}
-B000I0XOB4	ReviewEntity{reviewCount=24, averageRating=3.5416667, minimumRating=1.0, maximumRating=5.0}
-B000I0YZK8	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I0YZKI	ReviewEntity{reviewCount=39, averageRating=3.1794872, minimumRating=1.0, maximumRating=5.0}
-B000I0YZKS	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000I0Z27S	ReviewEntity{reviewCount=4, averageRating=4.0, minimumRating=1.0, maximumRating=5.0}
-B000I1CKVI	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I1D2M4	ReviewEntity{reviewCount=63, averageRating=3.6507936, minimumRating=1.0, maximumRating=5.0}
-B000I1LAVO	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I1LAW8	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1MGRQ	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I1QMTO	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1QMUS	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000I1QN70	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1S3S2	ReviewEntity{reviewCount=2, averageRating=1.5, minimumRating=1.0, maximumRating=2.0}
-B000I1S3UU	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1S3VY	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=2.0, maximumRating=5.0}
-B000I1S3WS	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000I1S3YQ	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000I1S40O	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1S422	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I1S4WM	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I1TPU2	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1TPV6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1TQCY	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I1TQQ0	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1VMYE	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1VN34	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1VN3Y	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I1VN84	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000I1VN9S	ReviewEntity{reviewCount=3, averageRating=4.0, minimumRating=2.0, maximumRating=5.0}
-B000I1VNMA	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I1XG3O	ReviewEntity{reviewCount=5, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000I1XLG6	ReviewEntity{reviewCount=17, averageRating=3.764706, minimumRating=1.0, maximumRating=5.0}
-B000I1Y3NQ	ReviewEntity{reviewCount=3, averageRating=3.3333333, minimumRating=2.0, maximumRating=5.0}
-B000I1YVF6	ReviewEntity{reviewCount=4, averageRating=4.25, minimumRating=4.0, maximumRating=5.0}
-B000I20C7G	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=2.0, maximumRating=5.0}
-B000I20CAS	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000I20S0C	ReviewEntity{reviewCount=3, averageRating=4.6666665, minimumRating=4.0, maximumRating=5.0}
-B000I20VCC	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000I21ZZO	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I225NA	ReviewEntity{reviewCount=2, averageRating=1.5, minimumRating=1.0, maximumRating=2.0}
-B000I23VKG	ReviewEntity{reviewCount=9, averageRating=4.2222223, minimumRating=1.0, maximumRating=5.0}
-B000I23ZYS	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I24AKG	ReviewEntity{reviewCount=8, averageRating=2.875, minimumRating=1.0, maximumRating=5.0}
-B000I2HPPS	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2OU6K	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2OUX8	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2OWNQ	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000I2OXZI	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I2OZYM	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2P0CI	ReviewEntity{reviewCount=5, averageRating=2.6, minimumRating=1.0, maximumRating=5.0}
-B000I2P140	ReviewEntity{reviewCount=3, averageRating=4.6666665, minimumRating=4.0, maximumRating=5.0}
-B000I2QB8U	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000I2QCLG	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=3.0, maximumRating=4.0}
-B000I2QDH4	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2QDLA	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000I2QEWI	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2QFIG	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I2QGLM	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2QGUS	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=3.0, maximumRating=5.0}
-B000I2RMLU	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I2RUN0	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2RXUA	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000I2RZFS	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I2S2EG	ReviewEntity{reviewCount=18, averageRating=3.6666667, minimumRating=1.0, maximumRating=5.0}
-B000I2S2RI	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000I2THQ8	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I2TIH6	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I2TLZA	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2TO1G	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I2TPGU	ReviewEntity{reviewCount=15, averageRating=3.7333333, minimumRating=1.0, maximumRating=5.0}
-B000I2X8KE	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2X8KO	ReviewEntity{reviewCount=10, averageRating=3.5, minimumRating=1.0, maximumRating=5.0}
-B000I2ZAXM	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2ZAY6	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I2ZBEA	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=2.0, maximumRating=5.0}
-B000I2ZBLS	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I2ZBMM	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I2ZC2Q	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I309Q4	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30VBM	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I30VE4	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30VFS	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I30VNA	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30VNU	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30VTO	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=3.0, maximumRating=4.0}
-B000I30VU8	ReviewEntity{reviewCount=3, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30W66	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30WF2	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I30WFC	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I32JV2	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I32JW6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I32K0C	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I32K16	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I32K2A	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I32K5C	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I32K8O	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=2.0, maximumRating=5.0}
-B000I32K8Y	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I32K9I	ReviewEntity{reviewCount=2, averageRating=3.0, minimumRating=1.0, maximumRating=5.0}
-B000I32KFC	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I32KHA	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I32KK2	ReviewEntity{reviewCount=6, averageRating=2.5, minimumRating=1.0, maximumRating=5.0}
-B000I32KNE	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I32L24	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I34ANM	ReviewEntity{reviewCount=15, averageRating=4.4666667, minimumRating=2.0, maximumRating=5.0}
-B000I34ANW	ReviewEntity{reviewCount=14, averageRating=4.571429, minimumRating=3.0, maximumRating=5.0}
-B000I34B1S	ReviewEntity{reviewCount=3, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I34B2M	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I34BG8	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I3AFU4	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I3DTW0	ReviewEntity{reviewCount=6, averageRating=3.3333333, minimumRating=1.0, maximumRating=5.0}
-B000I3NATM	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I3S150	ReviewEntity{reviewCount=8, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I4ATLI	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I4H1J6	ReviewEntity{reviewCount=72, averageRating=2.875, minimumRating=1.0, maximumRating=5.0}
-B000I4KBXE	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I4PR0G	ReviewEntity{reviewCount=21, averageRating=2.0952382, minimumRating=1.0, maximumRating=5.0}
-B000I4PW3S	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I4RO4I	ReviewEntity{reviewCount=13, averageRating=4.8461537, minimumRating=4.0, maximumRating=5.0}
-B000I4SXT8	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I4TLC6	ReviewEntity{reviewCount=3, averageRating=3.6666667, minimumRating=1.0, maximumRating=5.0}
-B000I4TQY4	ReviewEntity{reviewCount=2, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I4TV30	ReviewEntity{reviewCount=6, averageRating=3.6666667, minimumRating=1.0, maximumRating=5.0}
-B000I4UWYC	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I4V962	ReviewEntity{reviewCount=2, averageRating=2.0, minimumRating=1.0, maximumRating=3.0}
-B000I4V9K8	ReviewEntity{reviewCount=2, averageRating=4.5, minimumRating=4.0, maximumRating=5.0}
-B000I4WP24	ReviewEntity{reviewCount=49, averageRating=3.9387755, minimumRating=1.0, maximumRating=5.0}
-B000I4YLBC	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I4YLX0	ReviewEntity{reviewCount=4, averageRating=1.25, minimumRating=1.0, maximumRating=2.0}
-B000I4YQNA	ReviewEntity{reviewCount=10, averageRating=3.5, minimumRating=1.0, maximumRating=5.0}
-B000I52K9Q	ReviewEntity{reviewCount=11, averageRating=2.8181818, minimumRating=1.0, maximumRating=5.0}
-B000I54X1Y	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I59IEQ	ReviewEntity{reviewCount=25, averageRating=3.88, minimumRating=1.0, maximumRating=5.0}
-B000I5AIFY	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I5JMP6	ReviewEntity{reviewCount=4, averageRating=4.0, minimumRating=2.0, maximumRating=5.0}
-B000I5JPP8	ReviewEntity{reviewCount=5, averageRating=3.8, minimumRating=1.0, maximumRating=5.0}
-B000I5KYTE	ReviewEntity{reviewCount=6, averageRating=3.6666667, minimumRating=1.0, maximumRating=5.0}
-B000I5LD58	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I5LHEA	ReviewEntity{reviewCount=5, averageRating=2.8, minimumRating=1.0, maximumRating=5.0}
-B000I5MLI6	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I5MVTU	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000I5MWLC	ReviewEntity{reviewCount=2, averageRating=3.5, minimumRating=2.0, maximumRating=5.0}
-B000I5NG80	ReviewEntity{reviewCount=2, averageRating=2.5, minimumRating=1.0, maximumRating=4.0}
-B000I5RB3G	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I5SOEQ	ReviewEntity{reviewCount=22, averageRating=3.8636363, minimumRating=1.0, maximumRating=5.0}
-B000I5WPZA	ReviewEntity{reviewCount=17, averageRating=4.1764708, minimumRating=1.0, maximumRating=5.0}
-B000I5ZWUK	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I609OI	ReviewEntity{reviewCount=2, averageRating=1.5, minimumRating=1.0, maximumRating=2.0}
-B000I62HUW	ReviewEntity{reviewCount=7, averageRating=4.571429, minimumRating=3.0, maximumRating=5.0}
-B000I62WXE	ReviewEntity{reviewCount=34, averageRating=2.6764705, minimumRating=1.0, maximumRating=5.0}
-B000I63IDM	ReviewEntity{reviewCount=11, averageRating=3.5454545, minimumRating=1.0, maximumRating=5.0}
-B000I64OCG	ReviewEntity{reviewCount=4, averageRating=4.25, minimumRating=2.0, maximumRating=5.0}
-B000I65JAC	ReviewEntity{reviewCount=1, averageRating=1.0, minimumRating=1.0, maximumRating=1.0}
-B000I66F96	ReviewEntity{reviewCount=1, averageRating=2.0, minimumRating=2.0, maximumRating=2.0}
-B000I68JWW	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I695HA	ReviewEntity{reviewCount=1, averageRating=4.0, minimumRating=4.0, maximumRating=4.0}
-B000I6HBIA	ReviewEntity{reviewCount=2, averageRating=4.0, minimumRating=3.0, maximumRating=5.0}
-B000I6K6T6	ReviewEntity{reviewCount=1, averageRating=3.0, minimumRating=3.0, maximumRating=3.0}
-B000I6K6X2	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I6K6YQ	ReviewEntity{reviewCount=1, averageRating=5.0, minimumRating=5.0, maximumRating=5.0}
-B000I6K6Z0	ReviewEntity{reviewCount=18, averageRating=4.4444447, minimumRating=3.0, maximumRating=5.0}
+B000HBPMVY,3.5294118,5.0,1.0
+B000HBZNE0,2.0,2.0,2.0
+B000HCD4RW,1.0,1.0,1.0
+B000HCHR84,3.8,5.0,1.0
+B000HCNE0E,4.0,4.0,4.0
+B000HCQKTG,4.35,5.0,1.0
+B000HCSDKA,5.0,5.0,5.0
+B000HCT110,2.8695652,5.0,1.0
+B000HD0KNM,2.4,5.0,1.0
+B000HD4MZO,4.0,5.0,1.0
+B000HD4MZY,4.0,5.0,1.0
+B000HD4N3U,3.8965516,5.0,1.0
+B000HD6HRA,3.0,3.0,3.0
+B000HD6HRU,4.0740743,5.0,1.0
+B000HD79J0,3.5935483,5.0,1.0
+B000HD8BVU,3.7142856,5.0,1.0
+B000HD8BW4,1.0,1.0,1.0
+B000HD8BYC,3.0,5.0,1.0
+B000HD9YFM,3.4285715,5.0,1.0
+B000HD9YH0,3.0,3.0,3.0
+B000HD9YI4,5.0,5.0,5.0
+B000HDB4O6,1.0,1.0,1.0
+B000HDB4QO,3.7,5.0,1.0
+B000HDC7W4,3.2222223,4.0,1.0
+B000HDC7WO,2.3333333,3.0,2.0
+B000HDC7YC,4.0,5.0,3.0
+B000HDCKGM,3.6944444,5.0,1.0
+B000HDDCDW,3.5,5.0,1.0
+B000HDE3GW,1.0,1.0,1.0
+B000HDE3OO,3.25,5.0,1.0
+B000HDE3Q2,1.25,2.0,1.0
+B000HDGAEU,3.275,5.0,1.0
+B000HDHB4I,1.0,1.0,1.0
+B000HDIMUK,4.2,5.0,2.0
+B000HDJP88,1.0,1.0,1.0
+B000HDK7JE,3.5,4.0,3.0
+B000HDLUL8,1.0,1.0,1.0
+B000HDMHRO,5.0,5.0,5.0
+B000HDTXDA,4.1076922,5.0,1.0
+B000HDZA28,3.43617,5.0,1.0
+B000HE5298,4.0,5.0,1.0
+B000HE6PMG,4.0,4.0,4.0
+B000HE8Q00,3.0,3.0,3.0
+B000HE8RI6,3.09375,5.0,1.0
+B000HE927Q,2.857143,5.0,1.0
+B000HEAKHW,3.5,5.0,1.0
+B000HEB6TI,4.0,4.0,4.0
+B000HEBNUK,3.0,3.0,3.0
+B000HEC44O,4.0,5.0,2.0
+B000HEE2QW,3.0,3.0,3.0
+B000HEGGHK,2.0,2.0,2.0
+B000HFS9A6,5.0,5.0,5.0
+B000HFUVNE,3.875,5.0,1.0
+B000HFWXN0,4.0,5.0,3.0
+B000HG9MUG,3.090909,5.0,1.0
+B000HGBNQM,1.0,1.0,1.0
+B000HGBNRQ,2.5,3.0,2.0
+B000HGDQYY,2.75,5.0,1.0
+B000HGDR1Q,3.1176472,5.0,1.0
+B000HGHAUU,4.0,4.0,4.0
+B000HGHBZ4,1.0,1.0,1.0
+B000HGHLS6,5.0,5.0,5.0
+B000HGJC42,1.0,1.0,1.0
+B000HGJD6E,5.0,5.0,5.0
+B000HGPV5Q,5.0,5.0,5.0
+B000HGR18G,2.0,3.0,1.0
+B000HHB1AO,3.8,5.0,1.0
+B000HHD5TE,4.355932,5.0,1.0
+B000HHERI2,1.0,1.0,1.0
+B000HHERJG,5.0,5.0,5.0
+B000HHERKU,4.0,5.0,3.0
+B000HHERVY,1.0,1.0,1.0
+B000HHERW8,1.8,4.0,1.0
+B000HHGSQ6,2.0,2.0,2.0
+B000HHGSRK,1.75,3.0,1.0
+B000HHGSSO,3.6666667,5.0,1.0
+B000HHGT4M,5.0,5.0,5.0
+B000HHHM3O,2.3333333,5.0,1.0
+B000HHIUOE,4.0,5.0,1.0
+B000HHIUQC,5.0,5.0,5.0
+B000HHIUQM,4.1641793,5.0,1.0
+B000HHJU1G,4.172414,5.0,1.0
+B000HHKXOY,1.5,2.0,1.0
+B000HHKXU8,2.0,2.0,2.0
+B000HHKXZS,4.0,4.0,4.0
+B000HHN8R8,5.0,5.0,5.0
+B000HHPA2O,1.0,1.0,1.0
+B000HHTF7U,4.0,5.0,1.0
+B000HHTF8Y,3.1,5.0,1.0
+B000HHTF9S,3.0,5.0,1.0
+B000HHU4V6,3.909091,5.0,1.0
+B000HI6RCA,4.0,4.0,4.0
+B000HJC56G,3.5172415,5.0,1.0
+B000HJEYQ0,3.0,5.0,1.0
+B000HJI3SK,3.4285715,5.0,1.0
+B000HJWEIU,5.0,5.0,5.0
+B000HKEOBO,3.0,3.0,3.0
+B000HKGGWY,3.8888888,5.0,1.0
+B000HKIMOY,3.0,3.0,3.0
+B000HKIX34,5.0,5.0,5.0
+B000HKN7LW,3.0,3.0,3.0
+B000HKV9DU,3.0,3.0,3.0
+B000HL13CG,4.5,5.0,4.0
+B000HL6VKK,3.0,3.0,3.0
+B000HL874S,3.0857143,5.0,1.0
+B000HLD82E,3.6666667,5.0,2.0
+B000HLOXY6,2.0,2.0,2.0
+B000HLWPFU,2.5,3.0,2.0
+B000HLYPZI,3.7804878,5.0,1.0
+B000HLYQNO,3.490196,5.0,1.0
+B000HM0OUM,4.0,5.0,3.0
+B000HMZYSO,1.0,1.0,1.0
+B000HNGU6I,4.25,5.0,2.0
+B000HNHE7C,4.0333333,5.0,1.0
+B000HNHE7W,4.0,4.0,4.0
+B000HNJB1E,2.2857144,5.0,1.0
+B000HNL7K2,3.5,5.0,2.0
+B000HNLW2K,4.0,4.0,4.0
+B000HPX5O6,1.5,5.0,1.0
+B000HQPK6Q,1.0,1.0,1.0
+B000HRODGI,4.0,4.0,4.0
+B000HROH96,3.0,3.0,3.0
+B000HRQH08,3.0,3.0,3.0
+B000HRQKIM,3.0,3.0,3.0
+B000HRQL1S,4.5,5.0,4.0
+B000HRQMNA,4.0,4.0,4.0
+B000HRQOW4,5.0,5.0,5.0
+B000HRREBY,3.0,3.0,3.0
+B000HRSMMO,3.5,4.0,3.0
+B000HRSN0U,5.0,5.0,5.0
+B000HRSN6Y,2.0,3.0,1.0
+B000HRUKB0,4.0,5.0,3.0
+B000HRUQKU,5.0,5.0,5.0
+B000HRUT1Q,4.5,5.0,4.0
+B000HRUT52,1.0,1.0,1.0
+B000HRUUV0,3.8,5.0,2.0
+B000HRV27Q,3.0,3.0,3.0
+B000HRV7TO,1.3333334,2.0,1.0
+B000HRV82U,3.0,3.0,3.0
+B000HRVA78,4.5,5.0,4.0
+B000HRVT8I,3.0,5.0,1.0
+B000HRVTGU,2.0,4.0,1.0
+B000HRX9V8,3.0,4.0,2.0
+B000HRXAOY,2.5,4.0,1.0
+B000HRYOKI,5.0,5.0,5.0
+B000HRYS4A,3.0,3.0,3.0
+B000HS1EVE,3.6,5.0,1.0
+B000HS30VQ,3.0,3.0,3.0
+B000HS35GG,4.6060605,5.0,1.0
+B000HS35GQ,4.0,5.0,3.0
+B000HSEN9E,3.0,5.0,1.0
+B000HSGO6E,1.0,1.0,1.0
+B000HT595U,3.75,5.0,2.0
+B000HT597I,2.0,3.0,1.0
+B000HT5982,5.0,5.0,5.0
+B000HT599G,1.0,1.0,1.0
+B000HT59B4,2.0,2.0,2.0
+B000HT59BE,1.0,1.0,1.0
+B000HT59CI,2.1666667,5.0,1.0
+B000HT79F8,2.142857,5.0,1.0
+B000HT79LC,4.2,5.0,3.0
+B000HT79T4,1.0,1.0,1.0
+B000HT79TO,2.0,3.0,1.0
+B000HT79V2,2.5,3.0,2.0
+B000HT79VC,4.0,4.0,4.0
+B000HT79VM,3.6,5.0,1.0
+B000HT98PW,1.5,2.0,1.0
+B000HT98V6,5.0,5.0,5.0
+B000HT9LTA,3.7142856,5.0,1.0
+B000HTAD0Q,2.0,2.0,2.0
+B000HTBC2E,5.0,5.0,5.0
+B000HTBC42,3.2380953,5.0,1.0
+B000HTBC60,1.0,1.0,1.0
+B000HTBCC4,1.0,1.0,1.0
+B000HTBCD8,1.0,1.0,1.0
+B000HTBCE2,2.3333333,5.0,1.0
+B000HTQ210,3.0,5.0,1.0
+B000HU3HJE,3.5,5.0,2.0
+B000HUVQGK,4.375,5.0,1.0
+B000HVVFP6,4.5,5.0,4.0
+B000HW62B2,4.3333335,5.0,3.0
+B000HW6LK4,1.0,1.0,1.0
+B000HWXGP2,2.3333333,3.0,2.0
+B000HWZYD4,4.6666665,5.0,4.0
+B000HXD4X0,1.0,1.0,1.0
+B000HXVI2O,3.0,4.0,2.0
+B000HXXPLQ,5.0,5.0,5.0
+B000HYTMO4,1.0,1.0,1.0
+B000HZ9SGU,1.0,1.0,1.0
+B000HZA012,3.0,5.0,1.0
+B000HZA02Q,4.0,5.0,3.0
+B000HZA062,3.75,5.0,2.0
+B000HZA1PW,3.0,3.0,3.0
+B000HZA1V6,4.0,5.0,3.0
+B000HZBP5W,3.0,5.0,1.0
+B000HZBP6Q,2.0,2.0,2.0
+B000HZBP7U,4.0,4.0,4.0
+B000HZBP8O,2.0,2.0,2.0
+B000HZBP8Y,5.0,5.0,5.0
+B000HZBQEW,3.0,5.0,1.0
+B000HZBQG0,4.5,5.0,4.0
+B000HZBQYM,5.0,5.0,5.0
+B000HZDDK2,2.0,2.0,2.0
+B000HZFBAW,4.0,4.0,4.0
+B000HZFBC0,5.0,5.0,5.0
+B000HZFCK6,3.0,3.0,3.0
+B000HZFD32,3.5,5.0,1.0
+B000HZGZPW,4.0,4.0,4.0
+B000HZS2YO,4.2,5.0,1.0
+B000HZV8SQ,3.909091,5.0,1.0
+B000HZWVN2,4.5,5.0,4.0
+B000HZY7AW,4.388889,5.0,2.0
+B000HZZIGO,4.0454545,5.0,1.0
+B000I00ZES,5.0,5.0,5.0
+B000I04P5I,4.0,5.0,3.0
+B000I09K3U,1.0,1.0,1.0
+B000I0DFMM,1.0,1.0,1.0
+B000I0DFV8,4.2222223,5.0,1.0
+B000I0QUF6,5.0,5.0,5.0
+B000I0QW36,4.0,4.0,4.0
+B000I0QY3O,3.0,3.0,3.0
+B000I0QYBQ,4.0,4.0,4.0
+B000I0R1N6,4.0,4.0,4.0
+B000I0R3FM,5.0,5.0,5.0
+B000I0R3XO,5.0,5.0,5.0
+B000I0R5YQ,4.0,4.0,4.0
+B000I0R8F2,5.0,5.0,5.0
+B000I0R8FC,4.0,4.0,4.0
+B000I0S4TG,3.0,3.0,3.0
+B000I0SFEK,4.0,4.0,4.0
+B000I0TERM,1.0,1.0,1.0
+B000I0U0HU,4.125,5.0,1.0
+B000I0U0I4,4.0,4.0,4.0
+B000I0U0IO,4.5,5.0,4.0
+B000I0U0J8,4.75,5.0,4.0
+B000I0VNBM,5.0,5.0,5.0
+B000I0VND0,5.0,5.0,5.0
+B000I0VOGG,3.6875,5.0,1.0
+B000I0XOAK,3.2,5.0,1.0
+B000I0XOB4,3.5416667,5.0,1.0
+B000I0YZK8,4.0,4.0,4.0
+B000I0YZKI,3.1794872,5.0,1.0
+B000I0YZKS,2.5,4.0,1.0
+B000I0Z27S,4.0,5.0,1.0
+B000I1CKVI,4.0,4.0,4.0
+B000I1D2M4,3.6507936,5.0,1.0
+B000I1LAVO,4.0,4.0,4.0
+B000I1LAW8,5.0,5.0,5.0
+B000I1MGRQ,1.0,1.0,1.0
+B000I1QMTO,5.0,5.0,5.0
+B000I1QMUS,2.0,2.0,2.0
+B000I1QN70,5.0,5.0,5.0
+B000I1S3S2,1.5,2.0,1.0
+B000I1S3UU,5.0,5.0,5.0
+B000I1S3VY,3.6666667,5.0,2.0
+B000I1S3WS,2.5,4.0,1.0
+B000I1S3YQ,3.0,5.0,1.0
+B000I1S40O,5.0,5.0,5.0
+B000I1S422,3.0,3.0,3.0
+B000I1S4WM,3.0,3.0,3.0
+B000I1TPU2,5.0,5.0,5.0
+B000I1TPV6,5.0,5.0,5.0
+B000I1TQCY,3.0,3.0,3.0
+B000I1TQQ0,5.0,5.0,5.0
+B000I1VMYE,5.0,5.0,5.0
+B000I1VN34,5.0,5.0,5.0
+B000I1VN3Y,5.0,5.0,5.0
+B000I1VN84,4.0,5.0,3.0
+B000I1VN9S,4.0,5.0,2.0
+B000I1VNMA,4.0,4.0,4.0
+B000I1XG3O,4.0,5.0,3.0
+B000I1XLG6,3.764706,5.0,1.0
+B000I1Y3NQ,3.3333333,5.0,2.0
+B000I1YVF6,4.25,5.0,4.0
+B000I20C7G,3.5,5.0,2.0
+B000I20CAS,4.0,5.0,3.0
+B000I20S0C,4.6666665,5.0,4.0
+B000I20VCC,2.5,4.0,1.0
+B000I21ZZO,4.0,4.0,4.0
+B000I225NA,1.5,2.0,1.0
+B000I23VKG,4.2222223,5.0,1.0
+B000I23ZYS,5.0,5.0,5.0
+B000I24AKG,2.875,5.0,1.0
+B000I2HPPS,5.0,5.0,5.0
+B000I2OU6K,5.0,5.0,5.0
+B000I2OUX8,5.0,5.0,5.0
+B000I2OWNQ,2.0,2.0,2.0
+B000I2OXZI,3.0,3.0,3.0
+B000I2OZYM,5.0,5.0,5.0
+B000I2P0CI,2.6,5.0,1.0
+B000I2P140,4.6666665,5.0,4.0
+B000I2QB8U,4.5,5.0,4.0
+B000I2QCLG,3.5,4.0,3.0
+B000I2QDH4,4.0,4.0,4.0
+B000I2QDLA,3.0,5.0,1.0
+B000I2QEWI,4.0,4.0,4.0
+B000I2QFIG,3.0,3.0,3.0
+B000I2QGLM,4.0,4.0,4.0
+B000I2QGUS,3.6666667,5.0,3.0
+B000I2RMLU,1.0,1.0,1.0
+B000I2RUN0,5.0,5.0,5.0
+B000I2RXUA,2.0,2.0,2.0
+B000I2RZFS,3.0,3.0,3.0
+B000I2S2EG,3.6666667,5.0,1.0
+B000I2S2RI,2.5,4.0,1.0
+B000I2THQ8,1.0,1.0,1.0
+B000I2TIH6,3.0,3.0,3.0
+B000I2TLZA,4.0,4.0,4.0
+B000I2TO1G,1.0,1.0,1.0
+B000I2TPGU,3.7333333,5.0,1.0
+B000I2X8KE,5.0,5.0,5.0
+B000I2X8KO,3.5,5.0,1.0
+B000I2ZAXM,4.0,4.0,4.0
+B000I2ZAY6,1.0,1.0,1.0
+B000I2ZBEA,3.6666667,5.0,2.0
+B000I2ZBLS,5.0,5.0,5.0
+B000I2ZBMM,4.0,4.0,4.0
+B000I2ZC2Q,5.0,5.0,5.0
+B000I309Q4,5.0,5.0,5.0
+B000I30VBM,1.0,1.0,1.0
+B000I30VE4,5.0,5.0,5.0
+B000I30VFS,4.0,4.0,4.0
+B000I30VNA,5.0,5.0,5.0
+B000I30VNU,5.0,5.0,5.0
+B000I30VTO,3.5,4.0,3.0
+B000I30VU8,5.0,5.0,5.0
+B000I30W66,5.0,5.0,5.0
+B000I30WF2,5.0,5.0,5.0
+B000I30WFC,5.0,5.0,5.0
+B000I32JV2,4.0,4.0,4.0
+B000I32JW6,5.0,5.0,5.0
+B000I32K0C,4.0,4.0,4.0
+B000I32K16,4.0,4.0,4.0
+B000I32K2A,4.0,4.0,4.0
+B000I32K5C,5.0,5.0,5.0
+B000I32K8O,3.6666667,5.0,2.0
+B000I32K8Y,5.0,5.0,5.0
+B000I32K9I,3.0,5.0,1.0
+B000I32KFC,4.0,4.0,4.0
+B000I32KHA,1.0,1.0,1.0
+B000I32KK2,2.5,5.0,1.0
+B000I32KNE,5.0,5.0,5.0
+B000I32L24,1.0,1.0,1.0
+B000I34ANM,4.4666667,5.0,2.0
+B000I34ANW,4.571429,5.0,3.0
+B000I34B1S,5.0,5.0,5.0
+B000I34B2M,1.0,1.0,1.0
+B000I34BG8,4.0,4.0,4.0
+B000I3AFU4,1.0,1.0,1.0
+B000I3DTW0,3.3333333,5.0,1.0
+B000I3NATM,5.0,5.0,5.0
+B000I3S150,5.0,5.0,5.0
+B000I4ATLI,4.0,4.0,4.0
+B000I4H1J6,2.875,5.0,1.0
+B000I4KBXE,5.0,5.0,5.0
+B000I4PR0G,2.0952382,5.0,1.0
+B000I4PW3S,5.0,5.0,5.0
+B000I4RO4I,4.8461537,5.0,4.0
+B000I4SXT8,5.0,5.0,5.0
+B000I4TLC6,3.6666667,5.0,1.0
+B000I4TQY4,5.0,5.0,5.0
+B000I4TV30,3.6666667,5.0,1.0
+B000I4UWYC,3.0,3.0,3.0
+B000I4V962,2.0,3.0,1.0
+B000I4V9K8,4.5,5.0,4.0
+B000I4WP24,3.9387755,5.0,1.0
+B000I4YLBC,3.0,3.0,3.0
+B000I4YLX0,1.25,2.0,1.0
+B000I4YQNA,3.5,5.0,1.0
+B000I52K9Q,2.8181818,5.0,1.0
+B000I54X1Y,3.0,3.0,3.0
+B000I59IEQ,3.88,5.0,1.0
+B000I5AIFY,3.0,3.0,3.0
+B000I5JMP6,4.0,5.0,2.0
+B000I5JPP8,3.8,5.0,1.0
+B000I5KYTE,3.6666667,5.0,1.0
+B000I5LD58,5.0,5.0,5.0
+B000I5LHEA,2.8,5.0,1.0
+B000I5MLI6,5.0,5.0,5.0
+B000I5MVTU,2.0,2.0,2.0
+B000I5MWLC,3.5,5.0,2.0
+B000I5NG80,2.5,4.0,1.0
+B000I5RB3G,4.0,4.0,4.0
+B000I5SOEQ,3.8636363,5.0,1.0
+B000I5WPZA,4.1764708,5.0,1.0
+B000I5ZWUK,5.0,5.0,5.0
+B000I609OI,1.5,2.0,1.0
+B000I62HUW,4.571429,5.0,3.0
+B000I62WXE,2.6764705,5.0,1.0
+B000I63IDM,3.5454545,5.0,1.0
+B000I64OCG,4.25,5.0,2.0
+B000I65JAC,1.0,1.0,1.0
+B000I66F96,2.0,2.0,2.0
+B000I68JWW,4.0,4.0,4.0
+B000I695HA,4.0,4.0,4.0
+B000I6HBIA,4.0,5.0,3.0
+B000I6K6T6,3.0,3.0,3.0
+B000I6K6X2,5.0,5.0,5.0
+B000I6K6YQ,5.0,5.0,5.0
+B000I6K6Z0,4.4444447,5.0,3.0

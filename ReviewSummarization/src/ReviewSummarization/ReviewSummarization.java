@@ -33,11 +33,11 @@ public class ReviewSummarization {
             job.setMapOutputKeyClass(Text.class);
             job.setMapOutputValueClass(ReviewEntity.class);
 
-            job.setCombinerClass(ReducerRatings.class);
+            //job.setCombinerClass(ReducerRatings.class);
 
             job.setReducerClass(ReducerRatings.class);
-            job.setMapOutputKeyClass(Text.class);
-            job.setMapOutputValueClass(ReviewEntity.class);
+            job.setOutputKeyClass(Text.class);
+            job.setOutputValueClass(NullWritable.class);
 
             FileInputFormat.addInputPath(job, new Path(args[0]));
             FileOutputFormat.setOutputPath(job, new Path(args[1]));

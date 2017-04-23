@@ -10,5 +10,8 @@
     <orderEntry type="library" name="hadoop-common-2.7.3" level="project" />
     <orderEntry type="library" name="hadoop-mapreduce-client-common-2.7.3" level="project" />
     <orderEntry type="library" name="gson-2.2.4" level="project" />
+    <orderEntry type="library" name="commons-logging-1.1.3" level="project" />
+    <orderEntry type="library" name="lib" level="application" />
+    <orderEntry type="library" name="All Hadoop" level="application" />
   </component>
 </module>
