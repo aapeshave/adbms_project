@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="All Hadoop" level="application" />
-    <orderEntry type="library" name="Utils" level="application" />
+    <orderEntry type="library" exported="" name="All Hadoop" level="application" />
+    <orderEntry type="library" name="lib" level="application" />
   </component>
 </module>

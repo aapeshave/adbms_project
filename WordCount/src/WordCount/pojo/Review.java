@@ -11,7 +11,7 @@ public class Review {
     private String asin;
     private String reviewerName;
     private String reviewText;
-    private String overall;
+    private String overall;                         //This is the rating stars given by user.
     private String summary;
     private String unixReviewTime;
     private String reviewTime;

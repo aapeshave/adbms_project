@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-client-common-2.7.3">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/hadoop/2.7.3/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.3.jar!/" />
+      <root url="jar:///usr/local/Cellar/hadoop/2.7.3/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
