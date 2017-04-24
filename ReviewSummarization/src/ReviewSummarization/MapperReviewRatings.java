@@ -5,7 +5,6 @@ import ReviewSummarization.pojo.Review;
 import ReviewSummarization.pojo.ReviewEntity;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
-import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 

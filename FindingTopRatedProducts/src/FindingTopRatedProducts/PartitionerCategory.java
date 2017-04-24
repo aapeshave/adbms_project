@@ -2,10 +2,10 @@ package FindingTopRatedProducts;
 
 import org.apache.hadoop.conf.Configurable;
 import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.filecache.DistributedCache;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Partitioner;
-import org.apache.hadoop.mapreduce.filecache.DistributedCache;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -20,6 +20,7 @@ import java.util.List;
 public class PartitionerCategory extends Partitioner<Text, Text> implements Configurable {
     private Configuration configuration;
     private List<String> categoryList;
+
 
     @Override
     public Configuration getConf() {
@@ -47,25 +48,23 @@ public class PartitionerCategory extends Partitioner<Text, Text> implements Conf
 
     private void getLocalCacheFiles() throws IOException {
 
-        try {
-            Path[] files = DistributedCache.getLocalCacheFiles(getConf());
-            categoryList = new ArrayList<>();
-            if (files != null && files.length > 0) {
-                for (Path file : files) {
-                    try {
-                        File myFile = new File(file.toUri());
-                        BufferedReader bufferedReader = new BufferedReader(new FileReader(myFile.toString()));
-                        String line;
-                        while ((line = bufferedReader.readLine()) != null) {
-                            categoryList.add(line.trim());
-                        }
-                    } catch (IOException ex) {
-                        ex.printStackTrace();
+
+        Path[] files = DistributedCache.getLocalCacheFiles(getConf());
+        //Path[] files = DistributedCache.getFileClassPaths(getConf());
+        categoryList = new ArrayList<>();
+        if (files != null && files.length > 0) {
+            for (Path file : files) {
+                try {
+                    File myFile = new File(file.toUri());
+                    BufferedReader bufferedReader = new BufferedReader(new FileReader(myFile.toString()));
+                    String line;
+                    while ((line = bufferedReader.readLine()) != null) {
+                        categoryList.add(line.trim());
                     }
+                } catch (IOException ex) {
+                    ex.printStackTrace();
                 }
             }
-        } catch (IOException ex) {
-            ex.printStackTrace();
         }
     }
 }
