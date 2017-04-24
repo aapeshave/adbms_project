@@ -6,18 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ff7cf2-0a1d-4af6-8092-22cdac4efaae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_1_3.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ReviewSummarization/output/.part-r-00000.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ReviewSummarization/output/_SUCCESS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ReviewSummarization/output/part-r-00000" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/MapperReviewRatings.class" afterPath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/MapperReviewRatings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/ReducerRatings.class" afterPath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/ReducerRatings.class" />
+    <list default="true" id="43ff7cf2-0a1d-4af6-8092-22cdac4efaae" name="Default" comment="Adding New Module">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/FindingTopRatedProducts_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/FindingTopRatedProducts.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/DriverClassTopRatedProducts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/MapperCategories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/PartitionerCategory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/ReducerCategories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/Metadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/RelatedProducts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FindingTopRatedProducts/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ReviewSummarization_jar/ReviewSummarization.jar" afterPath="$PROJECT_DIR$/out/artifacts/ReviewSummarization_jar/ReviewSummarization.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/ReviewSummarization.class" afterPath="$PROJECT_DIR$/out/production/ReviewSummarization/ReviewSummarization/ReviewSummarization.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReviewSummarization/ReviewSummarization.iml" afterPath="$PROJECT_DIR$/../ReviewSummarization/ReviewSummarization.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java" afterPath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java" afterPath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java" afterPath="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,57 +33,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MapperReviewRatings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java">
+      <file leaf-file-name="RelatedProducts.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/RelatedProducts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReviewSummarization.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReducerRatings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="part-r-00000" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ReviewSummarization/output/part-r-00000">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReviewEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/pojo/ReviewEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,8 +84,17 @@
         <option value="$PROJECT_DIR$/../SummarizationReviews/src/SummarizationReviews/MapperReviewRatings.java" />
         <option value="$PROJECT_DIR$/../SummarizationReviews/src/SummarizationReviews/ReducerRatings.java" />
         <option value="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java" />
-        <option value="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java" />
         <option value="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java" />
+        <option value="$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/DriverClass.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/DriverClassTopRatedProducts.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/MapperCategories.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/Metadata.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/MapperCategories.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/ReducerCategories.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/PartitionerCategory.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/DriverClassTopRatedProducts.java" />
+        <option value="$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/RelatedProducts.java" />
       </list>
     </option>
   </component>
@@ -160,9 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -171,7 +133,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
+              <option name="myItemId" value="BinningProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -181,15 +143,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
+              <option name="myItemId" value="BinningProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,7 +157,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
+              <option name="myItemId" value="BinningProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -207,7 +165,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
+              <option name="myItemId" value="BinningProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinningProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinningProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinningProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -215,36 +191,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BinningProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BinningProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReviewSummarization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,6 +207,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FindingTopRatedProducts.pojo" />
       <recent name="SummarizationReviews" />
       <recent name="ReviewSummarization.pojo" />
     </key>
@@ -675,12 +627,13 @@
       <workItem from="1492823300114" duration="3338000" />
       <workItem from="1492860082034" duration="846000" />
       <workItem from="1492876038388" duration="11237000" />
-      <workItem from="1492960472978" duration="3186000" />
+      <workItem from="1492960472978" duration="4282000" />
+      <workItem from="1493001047695" duration="2693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22151000" />
+    <option name="totallyTimeSpent" value="25940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -688,16 +641,16 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,7 +673,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Review Pojo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Review Pojo" />
+    <MESSAGE value="Adding New Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding New Module" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -750,48 +704,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinningProject/BinningProject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinningProject/BinningProject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinningProject/RatingBinningMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WordCount/src/WordCount/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WordCount/src/WordCount/pojo/Metadata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WordCount/src/WordCount/pojo/RelatedProducts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../WordCount/src/WordCount/TestMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -918,13 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinningProject/RatingBinningMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/less than $15-m-00000">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -996,10 +901,20 @@
     <entry file="file://$PROJECT_DIR$/../SummarizationReviews/src/SummarizationReviews/SummarizationReviews.java" />
     <entry file="file://$PROJECT_DIR$/../SummarizationReviews/src/SummarizationReviews/MapperReviewRatings.java" />
     <entry file="file://$PROJECT_DIR$/../SummarizationReviews/src/SummarizationReviews/ReducerRatings.java" />
-    <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java">
+    <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="555">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/DriverClassTopRatedProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="41" column="83" lean-forward="false" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1008,21 +923,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReviewSummarization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="216">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/ReducerRatings.java">
+    <entry file="file://$PROJECT_DIR$/../ReviewSummarization/src/ReviewSummarization/MapperReviewRatings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="401">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/MapperCategories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="72" lean-forward="false" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/ReducerCategories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/PartitionerCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="47" column="58" lean-forward="true" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinningProject/RatingBinningMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,6 +993,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FindingTopRatedProducts/src/FindingTopRatedProducts/pojo/RelatedProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1089,7 +1060,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ReviewSummarization</last-edited>
+          <last-edited>FindingTopRatedProducts</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
