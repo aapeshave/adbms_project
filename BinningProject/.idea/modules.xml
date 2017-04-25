@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BinningProject.iml" filepath="$PROJECT_DIR$/BinningProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../FindingTopRatedProducts/FindingTopRatedProducts.iml" filepath="$PROJECT_DIR$/../FindingTopRatedProducts/FindingTopRatedProducts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RatingWisePartitioning/RatingWisePartitioning.iml" filepath="$PROJECT_DIR$/../RatingWisePartitioning/RatingWisePartitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReviewSentimentalAnalysis/ReviewSentimentalAnalysis.iml" filepath="$PROJECT_DIR$/../ReviewSentimentalAnalysis/ReviewSentimentalAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ReviewSummarization/ReviewSummarization.iml" filepath="$PROJECT_DIR$/../ReviewSummarization/ReviewSummarization.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SampleRandomSampling/SampleRandomSampling.iml" filepath="$PROJECT_DIR$/../SampleRandomSampling/SampleRandomSampling.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TopDistictCetegories/TopDistictCetegories.iml" filepath="$PROJECT_DIR$/../TopDistictCetegories/TopDistictCetegories.iml" />

@@ -1,7 +1,6 @@
 package FindingTopRatedProducts;
 
 import org.apache.hadoop.conf.Configuration;
-import org.apache.hadoop.filecache.DistributedCache;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
@@ -30,7 +29,7 @@ public class DriverClassTopRatedProducts {
         topRatedProductsJob.setPartitionerClass(PartitionerCategory.class);
 
         try {
-            DistributedCache.addCacheFile(new Path(args[2]).toUri(), topRatedProductsJob.getConfiguration());
+            //DistributedCache.addCacheFile(new Path(args[2]).toUri(), topRatedProductsJob.getConfiguration());
             //DistributedCache.addFileToClassPath(new Path(args[2]), configuration);
         } catch (IllegalArgumentException e) {
             e.printStackTrace();
