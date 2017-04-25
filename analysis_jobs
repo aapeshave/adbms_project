@@ -1,0 +1,29 @@
+Binning Pattern
+	Binning pattern is used for organizing metadata into price beans. These bins are:
+	 <$2, <$5, <$10, <$15 and >$15.
+	 There are three input splits for each bin. 
+Partitioning Pattern - RatingWisePartitioning
+	Used partitioning pattern for clusterning reviews into separate files as per rating. 
+	Partioner is used.
+Summarization Pattern - ReviewSummarization
+	Used summarization pattern for calculating average, max and min rating for products. Used custom writable class for output. 
+	File is used for pig joins.
+Top Distinct Categories - TopDistictCetegories
+	Used job chaining. First job gets distinct categories from metadata of products. Second job gives the top ten category results. Used TreeMap to sort keys and get top ten.
+ Top Category Partititons - FindingTopRatedProducts
+	Based on the top ten categories from the above job, we added these top categories into distrbuted cache from local file. Then partitioned metadata according the categories. 
+	This output is later used in pig join, to find top 10 products in each category.
+PIG 
+	Get top ten products for each top category for faster retrieval from huge category parititons. 
+	Used the data from summarization job and top category data to perform join. 
+	Result is top rated products in each top rated category.
+Simple Randon Sampling - 
+	Created random data for sentimental analysis. 
+Sentimental Analysis - 
+	performed sentimental analysis on customer reviews on the sampled data from the above job. 
+	IBM watson natural language understanding API provides various entities for judging the sentiments of a text. 
+	The api analyses the text input based on keywords cache. It also outputs the emotion of sentiment. Finally calculating the sentiment score. 
+Mahout Recommendation - 
+	Mahout user based recommendation to search a user and get products recommended for him according to user similarity. 
+	
+	 
