@@ -4,7 +4,6 @@ import com.google.gson.Gson;
 import com.reviews.pojo.Metadata;
 import com.sun.istack.internal.NotNull;
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import redis.clients.jedis.Jedis;
 
@@ -86,8 +85,7 @@ public class IndexController {
                 while ((currentLine = metadataFileReader.readLine()) != null) {
                     Metadata sampleMetadata = gson.fromJson(currentLine, Metadata.class);
                     if (StringUtils.isNotBlank(sampleMetadata.getAsin())) {
-                        if (asinCollection.contains(sampleMetadata.getAsin()))
-                        {
+                        if (asinCollection.contains(sampleMetadata.getAsin())) {
                             jedis.set(sampleMetadata.getAsin(), gson.toJson(sampleMetadata));
                             System.out.println("Added asin to db: " + sampleMetadata.getAsin());
                         }
@@ -104,15 +102,15 @@ public class IndexController {
     }
 
     @RequestMapping(value = "/search_category", method = RequestMethod.GET)
-    public List<Metadata> findTopTenProducts(@RequestParam(name = "searchParam", required = false) String searchParam ) {
+    public List<Metadata> findTopTenProducts(@RequestParam(name = "searchParam", required = false) String searchParam) {
         Gson gson = new Gson();
-        if (StringUtils.isNotBlank(searchParam)){
+        if (StringUtils.isNotBlank(searchParam)) {
             List<Metadata> results = new ArrayList<>();
             Jedis jedis = new Jedis("localhost");
             String key = "top_10_" + searchParam;
             if (StringUtils.isNotBlank(jedis.get(key))) {
                 String result = jedis.get(key);
-                result = result.replaceAll("\\[","").replaceAll("\\]","");
+                result = result.replaceAll("\\[", "").replaceAll("\\]", "");
                 String[] strArray = result.split(",");
                 for (String s : strArray) {
                     String metadataInString = jedis.get(s.trim());
