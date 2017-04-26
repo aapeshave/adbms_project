@@ -1,6 +1,5 @@
 package RatingWisePartitioning;
 
-import RatingWisePartitioning.pojo.Review;
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
