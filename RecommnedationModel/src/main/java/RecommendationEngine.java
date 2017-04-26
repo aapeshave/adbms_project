@@ -6,21 +6,15 @@ import org.apache.mahout.cf.taste.impl.model.GenericDataModel;
 import org.apache.mahout.cf.taste.impl.model.GenericPreference;
 import org.apache.mahout.cf.taste.impl.model.GenericUserPreferenceArray;
 import org.apache.mahout.cf.taste.impl.model.MemoryIDMigrator;
-import org.apache.mahout.cf.taste.impl.neighborhood.ThresholdUserNeighborhood;
-import org.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender;
-import org.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity;
+import org.apache.mahout.cf.taste.impl.recommender.GenericBooleanPrefItemBasedRecommender;
+import org.apache.mahout.cf.taste.impl.similarity.LogLikelihoodSimilarity;
 import org.apache.mahout.cf.taste.model.DataModel;
 import org.apache.mahout.cf.taste.model.Preference;
 import org.apache.mahout.cf.taste.model.PreferenceArray;
-import org.apache.mahout.cf.taste.neighborhood.UserNeighborhood;
 import org.apache.mahout.cf.taste.recommender.RecommendedItem;
-import org.apache.mahout.cf.taste.recommender.UserBasedRecommender;
-import org.apache.mahout.cf.taste.similarity.UserSimilarity;
+import org.apache.mahout.cf.taste.recommender.Recommender;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -30,8 +24,8 @@ import java.util.Map;
  * Created by ajinkya on 4/26/17.
  */
 public class RecommendationEngine {
-    private static UserBasedRecommender recommender = null;
-    private static String DATA_FILE_NAME = "/Users/ajinkya/Desktop/mahout_reviews_aj.json";
+    private static Recommender recommender = null;
+    private static String DATA_FILE_NAME = "/Users/ajinkya/Documents/adbms_project/RecommnedationModel/input/mahout_reviews_aj.json";
     MemoryIDMigrator thing2long = new MemoryIDMigrator();
     private DataModel dataModel;
 
@@ -70,11 +64,11 @@ public class RecommendationEngine {
             for (Map.Entry<Long, List<Preference>> entry : preferencesOfUsers.entrySet()) {
                 userPereferencesMap.put(entry.getKey(), new GenericUserPreferenceArray(entry.getValue()));
             }
-
+            // create a data model
             dataModel = new GenericDataModel(userPereferencesMap);
-            UserSimilarity similarity = new PearsonCorrelationSimilarity(dataModel);
-            UserNeighborhood neighborhood = new ThresholdUserNeighborhood(0.9, similarity, dataModel);
-            recommender = new GenericUserBasedRecommender(dataModel, neighborhood, similarity);
+
+            // Recommender Instantiation
+            recommender = new GenericBooleanPrefItemBasedRecommender(dataModel, new LogLikelihoodSimilarity(dataModel));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -82,8 +76,6 @@ public class RecommendationEngine {
         } catch (JsonSyntaxException e) {
             e.printStackTrace();
         } catch (NumberFormatException e) {
-            e.printStackTrace();
-        } catch (TasteException e) {
             e.printStackTrace();
         }
     }
