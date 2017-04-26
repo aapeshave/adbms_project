@@ -29,76 +29,68 @@ public class IndexController {
     @GetMapping("/")
     public String index() {
 
-        //File directory = new File("/Users/ajinkya/Documents/adbms_project/electronics/input/hadoop/pig/");
-//        @NotNull
-//        File[] files = directory.listFiles();
-//
-//        for ( File currentFile : files) {
-//            if (currentFile.isFile()) {
-//                String currentLine;
-//                try (BufferedReader reader = new BufferedReader(new FileReader(directory))) {
-//                    while ((currentLine = reader.readLine()) != null) {
-//                        System.out.println(currentLine);
-//                    }
-//                } catch (IOException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }
         try (Stream<Path> paths = Files.walk(Paths.get("/Users/ajinkya/Documents/adbms_project/electronics/input/hadoop/pig/"))) {
             Collection<String> asinCollection = new HashSet<>();
             Jedis jedis = new Jedis("localhost");
 
-            paths.forEach(filePath -> {
-                if (Files.isRegularFile(filePath)) {
-                    System.out.println("Reading file: " + filePath);
-                    @NotNull
-                    File currentFile = filePath.toFile();
-                    String currentLine;
-                    if (filePath.toString().contains("part")) {
-                        List<String> toStoreInRedis = new ArrayList<>();
-
-                        String category = "";
-                        try (BufferedReader reader = new BufferedReader(new FileReader(currentFile))) {
-                            while ((currentLine = reader.readLine()) != null) {
-                                String[] row = currentLine.split("\t");
-                                toStoreInRedis.add(row[0]);
-                                category = row[2];
-                                asinCollection.add(row[0]);
-                            }
-                            String key = "top_10_" + category;
-                            jedis.set(key, toStoreInRedis.toString());
-                            System.out.println("Key in redis: " + key);
-                            reader.close();
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                    }
-                }
-            });
+            addTopTenCategoriesToRedis(paths, asinCollection, jedis);
 
             //Now Store asins in data base
-            Gson gson = new Gson();
-            File metadataFile = new File("/Users/ajinkya/Downloads/metadata.json");
-            String currentLine;
-            try (BufferedReader metadataFileReader = new BufferedReader(new FileReader(metadataFile))) {
-                while ((currentLine = metadataFileReader.readLine()) != null) {
-                    Metadata sampleMetadata = gson.fromJson(currentLine, Metadata.class);
-                    if (StringUtils.isNotBlank(sampleMetadata.getAsin())) {
-                        if (asinCollection.contains(sampleMetadata.getAsin())) {
-                            jedis.set(sampleMetadata.getAsin(), gson.toJson(sampleMetadata));
-                            System.out.println("Added asin to db: " + sampleMetadata.getAsin());
-                        }
-                    }
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            jedis.close();
+            storeAsinsToRedis(asinCollection, jedis);
         } catch (IOException e) {
             e.printStackTrace();
         }
         return "Hello from Spring Boot";
+    }
+
+    private void addTopTenCategoriesToRedis(Stream<Path> paths, Collection<String> asinCollection, Jedis jedis) {
+        paths.forEach(filePath -> {
+            if (Files.isRegularFile(filePath)) {
+                System.out.println("Reading file: " + filePath);
+                @NotNull
+                File currentFile = filePath.toFile();
+                String currentLine;
+                if (filePath.toString().contains("part")) {
+                    List<String> toStoreInRedis = new ArrayList<>();
+
+                    String category = "";
+                    try (BufferedReader reader = new BufferedReader(new FileReader(currentFile))) {
+                        while ((currentLine = reader.readLine()) != null) {
+                            String[] row = currentLine.split("\t");
+                            toStoreInRedis.add(row[0]);
+                            category = row[2];
+                            asinCollection.add(row[0]);
+                        }
+                        String key = "top_10_" + category;
+                        jedis.set(key, toStoreInRedis.toString());
+                        System.out.println("Key in redis: " + key);
+                        reader.close();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        });
+    }
+
+    private void storeAsinsToRedis(Collection<String> asinCollection, Jedis jedis) {
+        Gson gson = new Gson();
+        File metadataFile = new File("/Users/ajinkya/Downloads/metadata.json");
+        String currentLine;
+        try (BufferedReader metadataFileReader = new BufferedReader(new FileReader(metadataFile))) {
+            while ((currentLine = metadataFileReader.readLine()) != null) {
+                Metadata sampleMetadata = gson.fromJson(currentLine, Metadata.class);
+                if (StringUtils.isNotBlank(sampleMetadata.getAsin())) {
+                    if (asinCollection.contains(sampleMetadata.getAsin())) {
+                        jedis.set(sampleMetadata.getAsin(), gson.toJson(sampleMetadata));
+                        System.out.println("Added asin to db: " + sampleMetadata.getAsin());
+                    }
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        jedis.close();
     }
 
     @RequestMapping(value = "/search_category", method = RequestMethod.GET)
