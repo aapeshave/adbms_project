@@ -24,13 +24,13 @@ public class SentimentalReviewAnalysis {
 
         String jsonFile = "/Users/ajinkya/Documents/adbms_project/ReviewSentimentalAnalysis/input/part-m-00009";
         BufferedReader bufferedReader = null;
-        String line = "";
+        String line;
         Gson gson = new Gson();
 
         try {
             bufferedReader = new BufferedReader(new FileReader(jsonFile));
             while ((line = bufferedReader.readLine()) != null) {
-                Review jsonReview = gson.fromJson(line.toString(), Review.class);
+                Review jsonReview = gson.fromJson(line, Review.class);
                 getSentimentalResullts(jsonReview.getReviewText());
             }
         } catch (FileNotFoundException e) {

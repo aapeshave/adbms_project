@@ -14,11 +14,10 @@ import java.io.IOException;
  * Count the number of distinct values for category
  */
 public class ReducerDistinctCategories extends Reducer<Text, LongWritable, Text, LongWritable> {
-    private long count;
 
     @Override
     protected void reduce(Text key, Iterable<LongWritable> values, Context context) throws IOException, InterruptedException {
-        count = 0;
+        long count = 0;
         for (LongWritable value : values) {
             count = count + value.get();
         }
